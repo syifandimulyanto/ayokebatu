@@ -17,6 +17,9 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.syifandimulyanto.ayokebatu.activity.MainActivity;
+
 /**
  * Created by Fandi on 10/25/2016.
  */

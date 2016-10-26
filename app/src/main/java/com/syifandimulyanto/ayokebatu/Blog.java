@@ -1,6 +1,5 @@
 package com.syifandimulyanto.ayokebatu;
 
-import android.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
@@ -19,6 +18,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.JsonArrayRequest;
+import com.syifandimulyanto.ayokebatu.activity.MainActivity;
 import com.syifandimulyanto.ayokebatu.adapter.NewsAdapter;
 import com.syifandimulyanto.ayokebatu.app.AppController;
 import com.syifandimulyanto.ayokebatu.data.NewsData;

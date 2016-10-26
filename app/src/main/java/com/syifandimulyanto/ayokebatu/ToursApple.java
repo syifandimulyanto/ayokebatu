@@ -19,7 +19,7 @@ public class ToursApple extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        view = (RelativeLayout) inflater.inflate(R.layout.import_main, container, false);
+        view = (RelativeLayout) inflater.inflate(R.layout.tours_apple_activity, container, false);
 
         getActivity().setTitle("Petik Apel");
 
