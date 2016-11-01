@@ -42,6 +42,10 @@
         <item>@color/dot_dark_screen4</item>
     </array>
 
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
     <color name="home_font">#8cf9eb</color>
 
 </resources>

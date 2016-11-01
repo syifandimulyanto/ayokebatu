@@ -30,11 +30,11 @@
                 android:icon="@drawable/ic_menu_share"
                 android:title="FAQ" />
             <item
-                android:id="@+id/nav_send"
+                android:id="@+id/nav_term"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Term and Condtion" />
             <item
-                android:id="@+id/nav_send"
+                android:id="@+id/nav_about"
                 android:icon="@drawable/ic_menu_send"
                 android:title="About" />
             <item

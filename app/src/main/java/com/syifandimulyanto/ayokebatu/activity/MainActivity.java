@@ -71,22 +71,22 @@ public class MainActivity extends AppCompatActivity
 
         switch (item.getItemId()) {
             case R.id.nav_tours_apple:
-
+                startActivity(new Intent(MainActivity.this, ToursAppleActivity.class));
                 break;
             case R.id.nav_accomodation:
 
                 break;
             case R.id.nav_gallery:
-
+                startActivity(new Intent(MainActivity.this, RecyclerActivity.class));
                 break;
             case R.id.nav_tours_milk:
-
+                startActivity(new Intent(MainActivity.this, ScrollActivity.class));
                 break;
             case R.id.nav_share:
-
+                startActivity(new Intent(MainActivity.this, TabActivity.class));
                 break;
-            case R.id.nav_send:
-
+            case R.id.nav_term:
+                startActivity(new Intent(MainActivity.this, ScrollingActivity.class));
                 break;
             case R.id.nav_blog:
                 startActivity(new Intent(MainActivity.this, Blog.class));
