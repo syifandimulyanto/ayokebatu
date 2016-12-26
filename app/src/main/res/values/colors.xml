@@ -48,4 +48,6 @@
 
     <color name="home_font">#8cf9eb</color>
 
+    <color name="regular_font">#424242</color>
+
 </resources>
